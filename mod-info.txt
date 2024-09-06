@@ -1,0 +1,7 @@
+[mod]
+title: StonksCo Stock Exchange Field Office
+description: Tired of your slow passive income? Take a financial risk and earn (or lose) credits by getting your stocks on StonksCo Stock Exchange Field Office! <Build v1.4.1>
+minVersion: 1.15
+tags: units, add-on, credits, resources
+
+thumbnail: thumb.png
